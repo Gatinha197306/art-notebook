@@ -1,1 +1,71 @@
-{"updated":null,"shows":[]}
+{
+  "updated": "2026-11-24T03:08:19.001294+00:00",
+  "shows": [],
+  "report": [
+    {
+      "museum": "東京国立博物館",
+      "found": 0,
+      "status": "no structured exhibitions found"
+    },
+    {
+      "museum": "国立西洋美術館",
+      "found": 0,
+      "status": "no structured exhibitions found"
+    },
+    {
+      "museum": "東京都美術館",
+      "found": 0,
+      "status": "no structured exhibitions found"
+    },
+    {
+      "museum": "国立新美術館",
+      "found": 0,
+      "status": "no structured exhibitions found"
+    },
+    {
+      "museum": "東京国立近代美術館",
+      "found": 0,
+      "status": "HTTP Error 403: Forbidden"
+    },
+    {
+      "museum": "太田記念美術館",
+      "found": 0,
+      "status": "no structured exhibitions found"
+    },
+    {
+      "museum": "根津美術館",
+      "found": 0,
+      "status": "no structured exhibitions found"
+    },
+    {
+      "museum": "ヨックモックミュージアム",
+      "found": 0,
+      "status": "no structured exhibitions found"
+    },
+    {
+      "museum": "竹久夢二美術館",
+      "found": 0,
+      "status": "no structured exhibitions found"
+    },
+    {
+      "museum": "横浜美術館",
+      "found": 0,
+      "status": "no structured exhibitions found"
+    },
+    {
+      "museum": "神奈川県立近代美術館",
+      "found": 0,
+      "status": "no structured exhibitions found"
+    },
+    {
+      "museum": "岡田美術館",
+      "found": 0,
+      "status": "no structured exhibitions found"
+    },
+    {
+      "museum": "ポーラ美術館",
+      "found": 0,
+      "status": "no structured exhibitions found"
+    }
+  ]
+}
